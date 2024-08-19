@@ -108,6 +108,12 @@
   margin-top: 10px;
   text-align: center;
   font-weight: 400;
+  margin-right: 20px;
+}
+.link {
+  position: relative;
+  display: flex;
+  justify-content: center;
 }
 
 .modal-text a {
